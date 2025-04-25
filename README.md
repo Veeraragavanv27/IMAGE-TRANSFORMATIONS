@@ -115,7 +115,8 @@ plt.show()
 ```
 ## Output:
 
-![alt text](<Screenshot 2025-04-25 203842.png>)
+![image](https://github.com/user-attachments/assets/d31a512c-bf54-4f0d-95db-39c3fa4e66ce)
+
 
 ## Result: 
 
